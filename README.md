@@ -144,7 +144,7 @@ endmodule
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
-![ex5 1](https://user-images.githubusercontent.com/94154683/167989887-d51c942b-1050-43ca-b27d-09e2a88a2ffc.png)
+![ex5](./sr.png)
 
 ### PROGRAM 2:
 ```
@@ -171,8 +171,7 @@ endmodule
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
-![ex5 22](https://user-images.githubusercontent.com/94154683/167990052-866001da-3888-47f7-a7fc-c0aa2fa511f8.png)
-
+![ex5 22](./jk.png)
 
 ### PROGRAM 3:
 ```
@@ -201,8 +200,7 @@ endmodule
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
-![ex5 33](https://user-images.githubusercontent.com/94154683/167990236-82e94e96-f72c-4745-99b2-fcb497adc8d5.png)
-
+![ex5 33](./d.png)
 
 
 ### PROGRAM 4:
@@ -229,8 +227,7 @@ endmodule
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
-![ex5 44](https://user-images.githubusercontent.com/94154683/167990366-376cc164-26ba-416b-9008-ca12ee4b88bb.png)
-
+![ex5 44](./t.png)
 
 
 ### RESULTS 
